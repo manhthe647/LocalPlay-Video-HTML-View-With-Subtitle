@@ -1,5 +1,7 @@
 # LocalPlay - Video & HTML Viewer with Advanced Subtitle Support
 
+<img width="1892" height="953" alt="image" src="https://github.com/user-attachments/assets/62d8ff0b-5298-49e0-ab51-f00b1a122935" />
+
 ## 📋 Mô tả / Description
 
 **LocalPlay** là một ứng dụng web đơn giản để phát video và xem tài liệu HTML trực tiếp từ thư mục cục bộ của bạn, với hỗ trợ phụ đề tiếng Việt và nhiều ngôn ngữ khác.
@@ -180,4 +182,4 @@ If you encounter issues or have suggestions:
 
 ---
 
-**Made with ❤️ for local media enthusiasts**
+**If you find this project helpful, give it a ⭐.**

@@ -182,4 +182,4 @@ If you encounter issues or have suggestions:
 
 ---
 
-**Made with ❤️ for local media enthusiasts**
+**If you find this project helpful, give it a ⭐.**

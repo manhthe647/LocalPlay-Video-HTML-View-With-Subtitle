@@ -1,3 +1,4 @@
+<img width="1892" height="953" alt="image" src="https://github.com/user-attachments/assets/62d8ff0b-5298-49e0-ab51-f00b1a122935" />
 # LocalPlay - Video & HTML Viewer with Advanced Subtitle Support
 
 ## 📋 Mô tả / Description
